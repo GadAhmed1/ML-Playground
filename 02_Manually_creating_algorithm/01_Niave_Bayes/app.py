@@ -1,8 +1,7 @@
 import pandas as pd
 import numpy as np
-from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
+from sklearn.metrics import classification_report
 
-import sys
 import os
 
 class Naive_Bayes:
